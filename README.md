@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **melanie.vaubien@gmail.com**
 
+- 🌐 Visit my website/portfolio **<a href="https://pekipeki14.github.io" target="_blank">https://pekipeki14.github.io</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/m%c3%a9lanie-v-a7a3b9166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m%c3%a9lanie-v-a7a3b9166/" height="30" width="40" /></a>
